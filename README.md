@@ -1,1 +1,1 @@
-# FTTM
+This repository contains software implementation of "Functional Time Transformation Model with Applications to Digital Health" by Ghosal,Matabuena and Ghosh (2025). Download the attached Software.zip file containing the source codes and R Markdown illustrations (FTTM.html) of the proposed method. The readme file within the package provides detailed documentation of the components.
